@@ -1,0 +1,115 @@
+nav {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #FF0000;
+}
+
+img{ 
+  max-width: 100%; height: auto;
+}
+
+.updates {
+  font-family: open-sans, sans-serif;
+  font-size: 14px;
+  color: #FFFFFF;
+  background-image: url("../assets/indexbanner-bg3.jpg");
+  height: 700px;
+  background-repeat: no-repeat;
+}
+.search {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+input[type=search] {
+width: 50%
+}
+
+.buttons {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.services {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+.ptables {
+ font-family: open-sans, sans-serif;
+  font-size: 36px;
+  color: #000000;
+  background-image: url("../assets/pricing-bg.jpg");
+  height: 700px;
+  background-repeat: no-repeat;
+}
+
+
+.features {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.pricing-flex {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+
+.pricing-box{
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+
+.pricing-title {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.package1 {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.package2 {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.package3 {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.package4 {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+
+
+.hosting {
+  font-family: Raleway, sans-serif;
+  font-size: 24px;
+  color: #FFFFFF;
+  background-color: #001966;
+  width: 100%;
+}
+
+footer {
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  color: #FFFFFF;
+  background-color: #000516;
+}
